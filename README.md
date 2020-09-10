@@ -41,7 +41,7 @@ Try running the following:
 
 `./fdf maps/test_maps/mars.fdf`
 
-`./fdf maps/personal/panama.fdf`
+`./fdf maps/pyramide.fdf`
 
 ## Screenshots
 
