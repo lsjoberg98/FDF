@@ -2,7 +2,7 @@
 
 ## FDF
 
-<img src="resources/fdf-finalmark.png" width="350" />
+<img src="resources/125.png" width="350" />
 
 This projects seeks to show the basics of graphic programming, and in particular
 how to place points in space, how to join them with segments and most
@@ -55,4 +55,4 @@ Try running the following:
 
 <img src="resources/Screen3.png" width="550" />
 
-<img src="resources/Screen24.png" width="550" />
+<img src="resources/Screen4.png" width="550" />
